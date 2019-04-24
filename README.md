@@ -62,6 +62,7 @@ p2 <- ggplot(data = wine.table.melt, aes(x = value)) +
 
 p2
 ```
+![Wine Dashboard-page-008](https://user-images.githubusercontent.com/32421511/56671864-5c7dad80-6683-11e9-8383-1400f6c4f1e7.jpg)
 
 #### About the Quality Variable...
 ##### It is worth mentioning that the distribution of the *quality* variable is like an integer. Thus, when making predictions with the models we may choose to round off the predicted values in practice. For example: A prediction of a 5.73 should be treated as a quality of 6.
