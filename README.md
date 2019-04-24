@@ -1,2 +1,2 @@
 # Wine
-Prediction of Wine QUality with Random Forest
+Prediction of Wine Quality with Random Forest
